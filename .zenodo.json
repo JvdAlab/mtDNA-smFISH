@@ -1,0 +1,40 @@
+{
+    "title": "Analysis code for: Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in vivo",
+    "upload_type": "software",
+    "description": "Analysis code supporting the manuscript 'Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in vivo'. Contains two components: (1) R statistical analysis of mtDNA heteroplasmy inheritance from neural stem cells to progeny, including mixed-effects models, Monte Carlo simulations, and Approximate Bayesian Computation (heteroplasmy_analysis/; Abhilesh Dhawanjewar); (2) Fiji/ImageJ macros for quantifying mtDNA nucleoid colocalization, TFAM association, and mitochondrial retention from single-molecule FISH imaging data (imaging_analysis/; Suvagata Roy Chowdhury)",
+    "version": "1.0.0",
+    "license": "mit",
+    "creators": [
+        {"name": "Dhawanjewar, Abhilesh"},
+        {"name": "Roy Chowdhury, Suvagata"}
+    ],
+    "keywords": [
+        "mitochondria",
+        "mtDNA",
+        "heteroplasmy",
+        "smFISH",
+        "single-molecule FISH",
+        "nucleoids",
+        "TFAM",
+        "neural stem cells",
+        "Approximate Bayesian Computation",
+        "ImageJ",
+        "Fiji",
+        "colocalization",
+        "fluorescence microscopy"
+    ],
+    "related_identifiers": [
+        {
+            "relation": "isSupplementTo",
+            "identifier": "10.1101/2025.01.24.634671",
+            "scheme": "doi",
+            "resource_type": "publication-preprint"
+        },
+        {
+            "relation": "isSupplementTo",
+            "identifier": "https://github.com/JvdAlab/mtDNA-smFISH",
+            "scheme": "url"
+        }
+    ],
+    "access_right": "open"
+}

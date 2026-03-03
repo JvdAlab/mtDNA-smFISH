@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+type: software
+title: "Analysis code for: Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in vivo"
+authors:
+  - family-names: Dhawanjewar
+    given-names: Abhilesh
+  - family-names: Roy Chowdhury
+    given-names: Suvagata
+license: MIT
+repository-code: "https://github.com/JvdAlab/mtDNA-smFISH"
+preferred-citation:
+  type: article
+  title: "Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in vivo"
+  authors:
+    - family-names: Chandrasegaram
+      given-names: Rajini
+    - family-names: Gottardo
+      given-names: Sara
+    - family-names: Dhawanjewar
+      given-names: Abhilesh
+    - family-names: Hynes-Allen
+      given-names: "Antony M."
+    - family-names: Gao
+      given-names: Beitong
+    - family-names: Roy Chowdhury
+      given-names: Suvagata
+    - family-names: "Tábara"
+      given-names: "Luis Carlos"
+    - family-names: Frison
+      given-names: Michele
+    - family-names: Petridi
+      given-names: Stavroula
+    - family-names: Chinnery
+      given-names: "Patrick F."
+    - family-names: Prudent
+      given-names: Julien
+    - family-names: Ma
+      given-names: Hansong
+    - family-names: van den Ameele
+      given-names: Jelle
+  doi: "10.1101/2025.01.24.634671"
+  journal: "bioRxiv"
+  year: 2025

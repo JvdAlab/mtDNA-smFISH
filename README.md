@@ -2,7 +2,7 @@
 
 Code and reproducible analysis for:
 
-> **"Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in different organs in vivo"**
+> **"Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in vivo"**
 > [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.01.24.634671v1)
 
 ## Analyses
@@ -33,7 +33,7 @@ mtDNA-smFISH/
 
 ### Heteroplasmy Analysis
 - **R** ≥ 4.4.2
-- **Quarto** (included in RStudio ≥ 2022.07)
+- **Quarto** ≥ 1.4 (https://quarto.org)
 
 ### Imaging Analysis
 - **Fiji/ImageJ** ≥ 1.53f
