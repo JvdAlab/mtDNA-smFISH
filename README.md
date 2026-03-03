@@ -1,5 +1,7 @@
 # mtDNA-smFISH
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18852757.svg)](https://doi.org/10.5281/zenodo.18852757)
+
 Code and reproducible analysis for:
 
 > **"Single-molecule mitochondrial DNA imaging reveals heteroplasmy dynamics shaped by developmental bottlenecks and selection in vivo"**
